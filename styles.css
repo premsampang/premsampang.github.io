@@ -4,3 +4,14 @@ html {
     body {
     background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
     }
+div {
+    width: auto;
+    text-align: center;
+    padding: 15px;
+    border: 3px solid red;
+    }
+img {
+   max-width: 100%;
+   height: auto;
+   }
+
