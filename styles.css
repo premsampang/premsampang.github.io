@@ -16,4 +16,9 @@ img {
    margin-right: auto;
    width: 100%;
    }
+.center p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
 
