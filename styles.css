@@ -21,4 +21,8 @@ img {
   display: inline-block;
   vertical-align: middle;
 }
+.card-header {
+ color: red;
+ font-size: 60px;
+}
 
