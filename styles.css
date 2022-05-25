@@ -4,7 +4,7 @@ html {
     body {
     background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
     }
-div {
+body {
     width: auto;
     text-align: center;
     padding: 15px;
