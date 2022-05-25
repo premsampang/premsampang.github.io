@@ -22,7 +22,8 @@ img {
   vertical-align: middle;
 }
 .card-header {
- color: red;
- font-size: 60px;
+ color: black;
+ font-size: 30px;
+ font-style: italic;
 }
 
